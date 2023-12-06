@@ -1,0 +1,3 @@
+Ator com maior faturamento por filme:
+Ator              Média de Faturamento
+Anthony Daniels          451.8

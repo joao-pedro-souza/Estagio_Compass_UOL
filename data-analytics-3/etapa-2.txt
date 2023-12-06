@@ -1,0 +1,53 @@
+Média de faturamento bruto por ator:
+Ator                     Média de faturamento
+
+Harrison Ford             118.80  
+Samuel L. Jackson         69.20  
+Morgan Freeman            73.30  
+Tom Hanks                 98.70  
+Robert Downey, Jr.        74.50 
+Eddie Murphy              100.30  
+Tom Cruise                99.60  
+Johnny Depp               74.90  
+Michael Caine             57.80  
+Scarlett Johansson        90.30  
+Gary Oldman               86.70  
+Robin Williams            66.90  
+Bruce Willis              53.20  
+Stellan Skarsgard         73.80  
+Anthony Daniels           451.80  
+Ian McKellen              101.60  
+Will Smith                131.20  
+Stanley Tucci             62.50  
+Matt Damon                79.70  
+Robert DeNiro             39.00  
+Cameron Diaz              89.20  
+Liam Neeson               46.70  
+Andy Serkis               125.70  
+Don Cheadle               84.90  
+Ben Stiller               76.40  
+Helena Bonham Carter      78.40  
+Orlando Bloom             165.60  
+Woody Harrelson           56.30  
+Cate Blanchett            71.90  
+Julia Roberts             65.10  
+Elizabeth Banks           77.90  
+Ralph Fiennes             75.40  
+Emma Watson               157.80  
+Tommy Lee Jones           58.30  
+Brad Pitt                 67.00  
+Adam Sandler              83.20  
+Daniel Radcliffe          155.00  
+Jonah Hill                89.80  
+Owen Wilson               66.70  
+Idris Elba                99.30  
+Bradley Cooper            102.30  
+Mark Wahlberg             70.80  
+Jim Carrey                94.30  
+Dustin Hoffman            58.70  
+Leonardo DiCaprio         100.70  
+Jeremy Renner             119.10  
+Philip Seymour Hoffman    61.60  
+Sandra Bullock            70.40  
+Chris Evans               106.90  
+Anne Hathaway             96.70  
